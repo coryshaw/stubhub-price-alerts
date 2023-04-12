@@ -1,0 +1,15 @@
+{
+  "name": "stubhub-price-alerts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Cory Shaw",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "twilio": "^4.10.0"
+  }
+}
